@@ -2,7 +2,7 @@
 Simple php pdf uploader and viewer
 
 # Installation
-Change the login credentails in config.php
+Change the login credentials in config.php
 
 # Usage
 Login to upload panel<br>
